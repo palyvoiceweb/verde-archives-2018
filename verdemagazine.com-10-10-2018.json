@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+	
+		<meta charset="utf-8">
+		<!-- Google Chrome Frame for IE -->
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+		<!-- mobile meta -->
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+        
+		<link rel="pingback" href="http://verdemagazine.com/xmlrpc.php">
+
+		
+		<!-- head extras -->
+		<title>Page not found &#8211; Verde Magazine</title>
+          <script>
+            (function(d){
+              var js, id = 'powr-js', ref = d.getElementsByTagName('script')[0];
+              if (d.getElementById(id)) {return;}
+              js = d.createElement('script'); js.id = id; js.async = true;
+              js.src = '//www.powr.io/powr.js';
+              js.setAttribute('powr-token','KP4gyBMw1b1442641430');
+              js.setAttribute('external-type','wordpress');
+              ref.parentNode.insertBefore(js, ref);
+            }(document));
+          </script>
+          <link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Verde Magazine &raquo; Feed" href="http://verdemagazine.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Verde Magazine &raquo; Comments Feed" href="http://verdemagazine.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/verdemagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bamboo-columns-css'  href='http://verdemagazine.com/wp-content/plugins/bamboo-columns/bamboo-columns.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='http://verdemagazine.com/wp-content/plugins/add-search-to-menu/public/css/ivory-search.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://verdemagazine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='eic_public-css'  href='http://verdemagazine.com/wp-content/plugins/easy-image-collage/css/public.css?ver=1.11.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Merriweather:400&subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='ai-core-style-css'  href='http://verdemagazine.com/wp-content/plugins/aesop-story-engine/public/assets/css/ai-core.css?ver=1' type='text/css' media='all' />
+<style id='ai-core-style-inline-css' type='text/css'>
+.aesop-gallery-component .aesop-component-caption {
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+}
+.aesop-stacked-img {
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: relative;
+  overflow: hidden;
+}
+.aesop-stacked-img .aesop-stacked-caption {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 0;
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  -webkit-transition: all 0.75s ease-in-out;
+  transition: all 0.75s ease-in-out;
+}
+.aesop-sequence-img-wrap .aesop-sequence-caption {
+  padding-left: 4.5rem;
+}
+.aesop-sequence-img-wrap .aesop-sequence-caption:before {
+  left: 0;
+  bottom: -4px;
+  font-weight: bold;
+  line-height: 1;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid;
+  border-color: inherit;
+  content: counter(sequence-counter, decimal-leading-zero);
+  counter-increment: sequence-counter;
+}
+.aesop-sequence-img-wrap .aesop-sequence-img {
+  width: 100%;
+  max-width: 1200px;
+  display: block;
+}
+.aesop-hero-gallery-wrapper {
+  clear: both;
+  position: relative;
+}
+.aesop-hero-gallery-content {
+  position: absolute;
+  top: 20px;
+  /*-webkit-transform: translate(0, -50%);
+     -moz-transform: translate(0, -50%);
+      -ms-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  color: #fff; 
+  font-size: 300%; // arbitrary number.
+  text-align: center;*/
+}
+.aesopicon-search-plus {
+  position: relative;
+}
+.aesopicon-search-plus:after {
+  display: inline-block;
+  font-family: 'Dashicons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: '\f179';
+}
+.aesop-parallax-component {
+  clear: both;
+}
+.aesop-parallax-component .aesop-parallax-sc {
+  margin: 0;
+}
+.aesop-content-component .aesop-content-comp-wrap {
+  padding: 1.5em 2em;
+}
+@media (max-width: 766px) {
+  .aesop-content-component .aesop-content-comp-wrap {
+    padding: 1em;
+  }
+}
+.aesop-content-component .aesop-content-comp-inner p {
+  line-height: 1.2em;
+}
+.aesop-content-component .aesop-content-img .aesop-content-comp-inner {
+  word-wrap: break-word;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 1rem;
+  line-height: 1.3;
+}
+.aesop-content-component .aesop-content-img .aesop-content-comp-inner p {
+  margin-bottom: 0;
+}
+.aesop-image-component img {
+  -webkit-box-shadow: 0 0 6px -1px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px -1px rgba(0, 0, 0, 0.5);
+}
+.aesop-image-component .aesop-lightbox {
+  text-decoration: none;
+  display: block;
+}
+.aesop-image-component .aesop-img-enlarge {
+  margin: 0 0 0.5rem;
+}
+.aesop-image-component .aesop-img-enlarge:hover {
+  text-decoration: none;
+}
+.aesop-image-component .aesop-img-enlarge i {
+  position: relative;
+  top: 1px;
+}
+.aesop-image-component .aesop-img-enlarge,
+.aesop-image-component .aesop-image-component-caption {
+  //color: #b3b3b3;
+  color: #767676;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.aesop-image-component .aesop-cap-cred,
+.aesop-image-component .aesop-img-enlarge {
+  //color: #b3b3b3;
+  color: #767676;
+}
+.aesop-image-component .aesop-cap-cred {
+  border-top: 1px dotted #b3b3b3;
+  font-size: 9px;
+}
+.aesop-image-component:hover {
+  opacity: 0.85;
+  filter: alpha(opacity=85);
+  -webkit-transition: opacity 0.25s ease-in-out;
+  transition: opacity 0.25s ease-in-out;
+}
+.aesop-image-component:active img {
+  box-shadow: none;
+}
+.aesop-video-component .aesop-video-component-caption {
+  color: #b3b3b3;
+}
+.aesop-video-component .aesop-component-caption {
+  color: #333;
+  padding: 0.25rem 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+}
+.mejs-container {
+  width: 100%;
+  max-width: 800px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mejs-container + p {
+  margin-top: 1rem;
+}
+.aesop-quote-component {
+  padding: 3rem 2rem;
+}
+.aesop-quote-component blockquote {
+  font-style: italic;
+}
+.aesop-quote-component cite {
+  display: block;
+  font-size: 14px;
+}
+.aesop-on-genesis .aesop-quote-component blockquote:before {
+  content: none;
+}
+.aesop-story-collection {
+  clear: both;
+}
+.aesop-story-collection .aesop-story-collection-title {
+  text-align: center;
+  background: #fff;
+  text-transform: uppercase;
+  font-size: 1.75rem;
+  line-height: 1.75rem;
+  letter-spacing: 0.05rem;
+  padding: 0.8rem 0 0.6rem;
+  margin: 0;
+  z-index: 2;
+  position: relative;
+  -webkit-box-shadow: 0 7px 7px -7px #000000;
+  box-shadow: 0 7px 7px -7px #000000;
+}
+.aesop-story-collection .aesop-collection-item {
+  float: left;
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link {
+  display: table;
+  height: 100%;
+  width: 100%;
+  color: white;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:before {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  z-index: 1;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover {
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover:before {
+  -webkit-transition: opacity 0.25s linear;
+  transition: opacity 0.25s linear;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-link:hover .aesop-collection-item-inner {
+  background: rgba(0, 0, 0, 0.5);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  padding: 0 2.5rem;
+  position: relative;
+  text-align: center;
+  z-index: 1;
+  overflow: hidden;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-entry-title {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: white;
+  margin: auto;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-item-excerpt {
+  font-size: 12px;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-inner .aesop-collection-meta {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  margin-bottom: 3rem;
+  font-style: italic;
+}
+.aesop-story-collection .aesop-collection-item .aesop-collection-item-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  z-index: 0;
+  background-position: center center;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-link:before {
+  content: none;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-link:hover .aesop-collection-item-inner {
+  background: transparent;
+}
+.aesop-story-collection .aesop-collection-splash .aesop-collection-item-inner .aesop-collection-entry-title {
+  color: #333;
+  text-shadow: none;
+}
+.aesop-story-collection .aesop-collection-load-more {
+  background: black;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  z-index: 1;
+  height: 70px;
+  line-height: 70px;
+  color: white;
+}
+.jorgen-article-cover-wrap {
+  position: fixed;
+}
+.aesop-article-chapter-wrap {
+  position: relative;
+}
+.aesop-article-chapter-wrap.aesop-video-chapter .aesop-cover-title {
+  max-width: 100%;
+  margin: 0;
+  padding-bottom: 20px;
+  top: 150px;
+  border-bottom: 1px solid #fff;
+  font-size: 62px !important;
+  color: #fff;
+  width: 90%;
+  left: 10%;
+  position: absolute;
+  z-index: 1;
+}
+.aesop-article-chapter-wrap.aesop-video-chapter .aesop-cover-title small {
+  font-size: 40px;
+}
+@media (max-width: 800px) {
+  .aesop-article-chapter-wrap .aesop-cover-title {
+    font-size: 52px;
+  }
+  .aesop-article-chapter-wrap .aesop-cover-title small {
+    font-size: 42px;
+  }
+}
+@media (max-width: 480px) {
+  .aesop-article-chapter-wrap .aesop-cover-title {
+    display: block;
+    bottom: 30px;
+    font-size: 32px;
+  }
+  .aesop-article-chapter-wrap .aesop-cover-title small {
+    display: block;
+    font-size: 20px;
+  }
+}
+.aesop-cover-title {
+  max-width: 100%;
+  margin: 0;
+  padding-bottom: 20px;
+  bottom: 100px;
+  border-bottom: 1px solid #fff;
+  font-size: 62px !important;
+  color: #fff;
+  width: 90%;
+  left: 10%;
+  position: absolute;
+  z-index: 1;
+}
+.aesop-cover-title small {
+  font-size: 40px;
+}
+.aesop-toggle-chapter-menu {
+  position: fixed;
+  right: -1px;
+  bottom: 57px;
+  height: 44px;
+  width: 44px;
+  background: #e6e6e6;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  z-index: 150;
+  -webkit-transition: right 0.25s ease;
+  transition: right 0.25s ease;
+}
+.aesop-toggle-chapter-menu:hover {
+  background: #007aac;
+  text-decoration: none;
+}
+.aesop-toggle-chapter-menu:hover i {
+  color: white;
+}
+.aesop-toggle-chapter-menu i {
+  color: #007aac;
+}
+.aesop-chapter-menu-open .aesop-chapter-menu {
+  right: 0;
+}
+.aesop-chapter-menu-open .aesop-toggle-chapter-menu {
+  right: 250px;
+}
+.aesop-close-chapter-menu {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1;
+}
+.aesop-close-chapter-menu:hover {
+  cursor: pointer;
+}
+.aesop-chapter-menu {
+  right: -250px;
+  width: 250px;
+  top: 0;
+  position: fixed;
+  bottom: 0;
+  background: #e6e6e6;
+  -webkit-transition: right 0.25s ease;
+  transition: right 0.25s ease;
+  z-index: 500;
+  counter-reset: sequence-counter;
+  color: #777;
+}
+.aesop-chapter-menu .scroll-nav__list {
+  margin: 0;
+  padding: 0;
+}
+.aesop-chapter-menu * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.aesop-chapter-menu li {
+  display: block;
+  margin-bottom: 0;
+  position: relative;
+  padding-left: 15px;
+  font: normal 14px/28px Arial, Helvetica, sans-serif;
+}
+.aesop-chapter-menu li:before {
+  content: counter(sequence-counter, upper-roman);
+  counter-increment: sequence-counter;
+  position: absolute;
+  left: 0;
+}
+.aesop-chapter-menu a:link,
+.aesop-chapter-menu .scroll-nav__link {
+  color: #777;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.admin-bar .aesop-chapter-menu {
+  top: 32px;
+}
+.aesop-chapter-menu--inner {
+  padding: 15px;
+}
+.aesop-chapter-title {
+  position: absolute;
+  left: -10000px;
+}
+.aesop-character-component .aesop-character-float {
+  margin: .65rem 0;
+  width: 150px;
+  text-align: center;
+}
+.aesop-character-component .aesop-character-float .aesop-character-title {
+  vertical-align: top;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #767676;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: block;
+  text-align: center;
+  margin: 0 0 0.5rem;
+}
+.aesop-character-component .aesop-character-float.aesop-character-right {
+  float: right;
+  margin-left: 1.75rem;
+}
+.aesop-character-component .aesop-character-float.aesop-character-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.aesop-character-component .aesop-character-float.aesop-character-center .aesop-character-name {
+  text-align: center;
+}
+.aesop-character-component .aesop-character-float.aesop-character-left {
+  float: left;
+  margin-right: 1.75rem;
+}
+.aesop-character-component .aesop-character-avatar {
+  width: 90%;
+  border-radius: 50%;
+}
+.aesop-character-component .aesop-character-cap {
+  font-size: 12px;
+  line-height: 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #767676;
+  font-style: italic;
+  margin-top: 0.8rem;
+  border-top: 1px dotted #b3b3b3;
+  padding-top: 0.3rem;
+}
+.aesop-document-component a {
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #b3b3b3;
+  line-height: 12px;
+  text-decoration: none;
+}
+.aesop-document-component a span {
+  border-bottom: 1px solid #e6e6e6;
+  font-size: 12px;
+  color: #757575;
+}
+.aesop-document-component a span:before {
+  content: '\f498';
+  font-family: Dashicons;
+  position: absolute;
+  left: 0;
+}
+.aesop-timeline {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.aesop-timeline ol {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background: #e6e6e6;
+  padding: 5px 10px;
+  -webkit-box-shadow: inset 0 7px 7px -7px #808080;
+  box-shadow: inset 0 7px 7px -7px #808080;
+}
+.aesop-timeline ol:before,
+.aesop-timeline ol:after {
+  content: " ";
+  display: table;
+}
+.aesop-timeline ol:after {
+  clear: both;
+}
+.aesop-timeline ol li {
+  display: inline-block;
+  margin-right: 5px;
+}
+.aesop-timeline ol li:last-child {
+  margin-right: 0;
+}
+.aesop-timeline ol li a {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: inherit;
+  padding: 2px 10px 8px;
+  display: block;
+  position: relative;
+}
+.aesop-timeline ol li a:after {
+  content: '';
+  height: 20px;
+  border-right: 1px solid #666666;
+  width: 1px;
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+}
+.aesop-timeline ol li.active a {
+  color: #428bca;
+}
+.aesop-timeline ol li.active a:after {
+  border-right-color: #428bca;
+}
+
+</style>
+<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='http://verdemagazine.com/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506' type='text/css' media='all' />
+<link rel='stylesheet' id='dry_awp_theme_style-css'  href='http://verdemagazine.com/wp-content/plugins/advanced-wp-columns/assets/css/awp-columns.css?ver=4.9.8' type='text/css' media='all' />
+<style id='dry_awp_theme_style-inline-css' type='text/css'>
+@media screen and (max-width: 1024px) {	.csColumn {		clear: both !important;		float: none !important;		text-align: center !important;		margin-left:  10% !important;		margin-right: 10% !important;		width: 80% !important;	}	.csColumnGap {		display: none !important;	}}
+</style>
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css'  href='http://verdemagazine.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css?ver=5.20.2' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://verdemagazine.com/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.6.20' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://verdemagazine.com/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://verdemagazine.com/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css?ver=4.6.20' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-main-stylesheet-css'  href='http://verdemagazine.com/wp-content/themes/15zine/library/css/style.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cb-font-stylesheet-css'  href='//fonts.googleapis.com/css?family=%3A400%2C700%7CEB+Garamond%3A400%2C700%2C400italic&#038;ver=2.0.2' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://verdemagazine.com/wp-content/themes/15zine/library/css/ie.css?ver=2.0.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fontawesome-css'  href='http://verdemagazine.com/wp-content/themes/15zine/library/css/font-awesome-4.4.0/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://verdemagazine.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://verdemagazine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/_inc/build/postmessage.min.js?ver=6.1.1'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js?ver=6.1.1'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/15zine/library/js/modernizr.custom.min.js?ver=2.6.2'></script>
+<link rel='https://api.w.org/' href='http://verdemagazine.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://verdemagazine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://verdemagazine.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<style type="text/css">.eic-image .eic-image-caption {bottom: 0;left: 0;right: 0;text-align: left;font-size: 12px;color: rgba(255,255,255,1);background-color: rgba(0,0,0,0.7);}</style><style type='text/css' media='screen'>
+	blockquote{ font-family:"Merriweather", arial, sans-serif;}
+</style>
+<!-- fonts delivered by Wordpress Google Fonts, a plugin by Adrian3.com -->
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<style type="text/css">#search { display: none; }
+#cb-nav-bar .cb-mega-menu-columns .cb-sub-menu > li > a { color: #f2c231; } .cb-entry-content a {color:#396f39; } .cb-entry-content a:hover {color:#577057; } .cb-entry-content a:active {color:#396f39; } .cb-entry-content a:visited {color:#154415; } .cb-entry-content a:focus {color:#396f39; }.cb-meta-style-1 .cb-article-meta { background: rgba(0, 0, 0, 0.27); } .cb-module-block .cb-meta-style-2 img, .cb-grid-x .cb-grid-img img  { opacity: 0.73; }@media only screen and (min-width: 768px) { .cb-module-block .cb-meta-style-1:hover .cb-article-meta { background: rgba(0, 0, 0, 0.3); } .cb-module-block .cb-meta-style-2:hover img, .cb-grid-x .cb-grid-feature:hover img { opacity: 0.7; } }</style><!-- end custom css --><style type="text/css">body, #respond, .cb-font-body { font-family: 'EB Garamond', serif;  } h1, h2, h3, h4, h5, h6, .cb-font-header, #bbp-user-navigation, .cb-byline{ font-family:none }</style><style>.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2564:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2564:focus { background:# !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2564 .cb-big-menu { border-top-color: #; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2567:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2567:focus { background:# !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-2567 .cb-big-menu { border-top-color: #; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-16367:hover, .cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-16367:focus { background:# !important ; }
+.cb-mm-on #cb-nav-bar .cb-main-nav .menu-item-16367 .cb-big-menu { border-top-color: #; }</style><link rel="icon" href="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2015/09/favver.png?fit=24%2C32" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2015/09/favver.png?fit=142%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2015/09/favver.png?fit=134%2C180" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2015/09/favver.png?fit=200%2C270" />
+
+<!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-100594088-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+			<style type="text/css" id="wp-custom-css">
+				#container{background: #000000 url(images/bg-main.jpg) repeat-y;
+color: #ccc;
+margin: 0 auto;
+width: 920px}
+body {
+  font-size: 19px;
+}
+.cb-fis-block-standard .cb-meta {  margin: 0 0 -5px; }			</style>
+				<!-- end head extras -->
+
+	</head>
+
+	<body class="aesop-on-15zine">
+	
+		
+		<div id="cb-outer-container">
+
+			
+				<div id="cb-top-menu" class="clearfix cb-font-header  wrap">
+					<div class="wrap clearfix cb-site-padding cb-top-menu-wrap">
+						
+													<div class="cb-left-side cb-mob">
+								
+								<a href="#" id="cb-mob-open" class="cb-link"><i class="fa fa-bars"></i></a>
+															</div>
+						                                                					</div>
+				</div>
+				<div id="cb-mob-menu">
+					<a href="#" id="cb-mob-close" class="cb-link"><i class="fa cb-times"></i></a>
+					<div class="cb-mob-menu-wrap">
+						<ul class="cb-mobile-nav cb-top-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2559"><a href="http://verdemagazine.com">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2565"><a href="http://verdemagazine.com/category/features">Features</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2569"><a href="http://verdemagazine.com/category/profiles">Profiles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2564"><a href="http://verdemagazine.com/category/culture">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-2568"><a href="http://verdemagazine.com/category/perspectives">Perspectives</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8162"><a href="http://verdemagazine.com/category/editorials">Editorials</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2567"><a href="http://verdemagazine.com/category/news">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16367"><a href="http://verdemagazine.com/category/launch">Launch</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children cb-has-children menu-item-16373"><a href="http://verdemagazine.com/exclusive-issues">Exclusives</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18094"><a href="http://verdemagazine.com/veritas">Veritas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18095"><a href="http://verdemagazine.com/viaverde">Via Verde</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children cb-has-children menu-item-2562"><a href="http://verdemagazine.com/about">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10325"><a href="http://verdemagazine.com/staff">Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5371"><a href="http://verdemagazine.com/archives">Archives</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11629"><a href="http://verdemagazine.com/sponsors">Sponsors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10324"><a href="http://verdemagazine.com/contact">Contact</a></li>
+</ul>
+</li>
+</ul>					</div>
+				</div>
+			
+			 
+			<div id="cb-container" class="clearfix" >				
+									<header id="cb-header" class="cb-header  wrap" role="banner">
+
+					    <div id="cb-logo-box" class="cb-logo-left wrap">
+	                    	                <div id="logo">
+                    <a href="http://verdemagazine.com">
+                        <img src="http://verdemagazine.com/wp-content/uploads/2015/09/verde1-1.png" alt=" logo" data-at2x="http://verdemagazine.com/wp-content/uploads/2015/09/verde2-1.png">
+                    </a>
+                </div>
+            	                        	                    </div>
+
+					</header>
+								
+				<div id="cb-menu-search" class="cb-s-modal cb-modal"><div class="cb-close-m cb-ta-right"><i class="fa cb-times"></i></div><div class="cb-s-modal-inner cb-pre-load cb-light-loader cb-modal-inner cb-font-header cb-mega-three cb-mega-posts clearfix"><form role="search" method="get" class="cb-search" action="http://verdemagazine.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form><div id="cb-s-results"></div></div></div>
+									 <nav id="cb-nav-bar" class="clearfix  wrap" role="navigation">
+					 	<div class="cb-nav-bar-wrap cb-site-padding clearfix cb-font-header  wrap">
+		                    <ul class="cb-main-nav wrap clearfix"><li id="menu-item-2559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2559"><a href="http://verdemagazine.com">Home</a></li>
+<li id="menu-item-2565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2565"><a href="http://verdemagazine.com/category/features">Features</a></li>
+<li id="menu-item-2569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2569"><a href="http://verdemagazine.com/category/profiles">Profiles</a></li>
+<li id="menu-item-2564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2564"><a href="http://verdemagazine.com/category/culture">Culture</a></li>
+<li id="menu-item-2568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children cb-has-children menu-item-2568"><a href="http://verdemagazine.com/category/perspectives">Perspectives</a><div class="cb-links-menu cb-menu-drop"><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-8162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8162"><a href="http://verdemagazine.com/category/editorials">Editorials</a></li>
+</ul></div></li>
+<li id="menu-item-2567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2567"><a href="http://verdemagazine.com/category/news">News</a></li>
+<li id="menu-item-16367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16367"><a href="http://verdemagazine.com/category/launch">Launch</a></li>
+<li id="menu-item-16373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children cb-has-children menu-item-16373"><a href="http://verdemagazine.com/exclusive-issues">Exclusives</a><div class="cb-links-menu cb-menu-drop"><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-18094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18094"><a href="http://verdemagazine.com/veritas">Veritas</a></li>
+	<li id="menu-item-18095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18095"><a href="http://verdemagazine.com/viaverde">Via Verde</a></li>
+</ul></div></li>
+<li id="menu-item-2562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children cb-has-children menu-item-2562"><a href="http://verdemagazine.com/about">About</a><div class="cb-links-menu cb-menu-drop"><ul class="cb-sub-menu cb-sub-bg">	<li id="menu-item-10325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10325"><a href="http://verdemagazine.com/staff">Staff</a></li>
+	<li id="menu-item-5371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5371"><a href="http://verdemagazine.com/archives">Archives</a></li>
+	<li id="menu-item-11629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11629"><a href="http://verdemagazine.com/sponsors">Sponsors</a></li>
+	<li id="menu-item-10324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10324"><a href="http://verdemagazine.com/contact">Contact</a></li>
+</ul></div></li>
+<li class="astm-search-menu astm-search-menu is-menu full-width-menu"><a title="" href="#"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5">
+						<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form role="search" method="get" class="cb-search" action="http://verdemagazine.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+<input type="hidden" name="id" value="m" /></form></li></ul>		                </div>
+	 				</nav>
+ 				  
+    
+	<div id="cb-content" class="wrap cb-404-page clearfix">
+	    
+         <div id="main" class="cb-main cb-full-width clearfix" role="main">
+
+         	<div class="cb-404-header">
+		        <h1 class="cb-module-title">Page not found... Oops!</h1>
+		        <p>Page not found. Please try using the search box below.</p>              
+		    </div>
+	
+			<article id="post-not-found" class="clearfix">
+
+				<section class="widget_search cb-search">
+	
+				    <p><form role="search" method="get" class="cb-search" action="http://verdemagazine.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form></p>
+	
+				</section> <!-- end search section -->
+					
+			</article> <!-- end article -->
+	
+		</div> <!-- end #main -->
+		
+	</div> <!-- end #cb-content -->
+    
+				</div> <!-- end #cb-container -->
+    			
+    			<footer id="cb-footer" class="wrap" role="contentinfo">
+
+                            				<div id="cb-widgets" class="cb-footer-x cb-footer-a wrap clearfix cb-site-padding">
+
+                                                            <div class="cb-one cb-column clearfix">
+                                    <div id="cb-recent-posts-slider-4" class="cb-footer-widget clearfix widget-latest-articles-slider"><h3 class="cb-footer-widget-title cb-widget-title">Read more</h3>    		<div class="cb-slider cb-slider-1 cb-recent-slider cb-relative cb-arrows-tr clearfix">
+        		<ul class="slides">
+
+        		                    <li class="cb-article cb-style-1 clearfix post-21254 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/department-flair-with-steve-ferrera"><img width="360" height="240" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-03-at-3.01.05-PM.png?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="21256" data-permalink="http://verdemagazine.com/department-flair-with-steve-ferrera/screen-shot-2018-10-03-at-3-01-05-pm" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-03-at-3.01.05-PM.png?fit=418%2C355" data-orig-size="418,355" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screen Shot 2018-10-03 at 3.01.05 PM" data-image-description="" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-03-at-3.01.05-PM.png?fit=300%2C255" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-03-at-3.01.05-PM.png?fit=418%2C355" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/department-flair-with-steve-ferrera">Department Flair with Steve Ferrera</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20787 post type-post status-publish format-standard has-post-thumbnail hentry category-profiles category-volume-20 category-v20-1 tag-movies tag-packard tag-stanford tag-vaudeville">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/the-inner-workings-of-the-stanford-theatre"><img width="360" height="134" src="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-1.32.48-PM-copy.jpg?resize=360%2C134" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20893" data-permalink="http://verdemagazine.com/the-inner-workings-of-the-stanford-theatre/screen-shot-2018-09-27-at-1-32-48-pm-copy" data-orig-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-1.32.48-PM-copy.jpg?fit=1272%2C134" data-orig-size="1272,134" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screen Shot 2018-09-27 at 1.32.48 PM copy" data-image-description="" data-medium-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-1.32.48-PM-copy.jpg?fit=300%2C32" data-large-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-1.32.48-PM-copy.jpg?fit=1024%2C108" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/the-inner-workings-of-the-stanford-theatre">The Inner Workings of the Stanford Theatre</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20848 post type-post status-publish format-standard has-post-thumbnail hentry category-perspectives category-volume-20 category-v20-1 tag-extracurriculars tag-competition tag-controversy tag-sports tag-stress">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/putting-sports-on-a-pedestal-why-school-sports-are-not-flexible-enough"><img width="360" height="240" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/sports-2.png?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20939" data-permalink="http://verdemagazine.com/putting-sports-on-a-pedestal-why-school-sports-are-not-flexible-enough/sports-3" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/sports-2.png?fit=2475%2C1124" data-orig-size="2475,1124" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sports" data-image-description="" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/sports-2.png?fit=300%2C136" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/sports-2.png?fit=1024%2C465" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/putting-sports-on-a-pedestal-why-school-sports-are-not-flexible-enough">Putting Sports on a Pedestal: Why School Sports are not Flexible Enough</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20805 post type-post status-publish format-standard has-post-thumbnail hentry category-features category-news category-volume-20 category-v20-1 tag-alisoncormack tag-citycouncil tag-corywolbach tag-ericfilseth tag-pacitycouncil tag-paloalto tag-patboone tag-tomdubois tag-verdemagazine">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/race-to-the-council-city-candidate-platoforms"><img width="360" height="232" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-7.44.36-PM.jpg?resize=360%2C232" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="21019" data-permalink="http://verdemagazine.com/midterm-voter-guide/screen-shot-2018-09-27-at-7-44-36-pm-3" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-7.44.36-PM.jpg?fit=420%2C232" data-orig-size="420,232" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screen Shot 2018-09-27 at 7.44.36 PM" data-image-description="" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-7.44.36-PM.jpg?fit=300%2C166" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-27-at-7.44.36-PM.jpg?fit=420%2C232" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/race-to-the-council-city-candidate-platoforms">Race to the council: City candidate platforms</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20744 post type-post status-publish format-standard has-post-thumbnail hentry category-profiles category-volume-20 category-v20-1 tag-adult-league tag-ball tag-batter tag-batting tag-bowler tag-cricket tag-hat tag-kataria tag-outs tag-palo-alto-high-school tag-paly tag-playing tag-pratham tag-pratham-kataria tag-professional tag-professional-cricket tag-sport tag-sports tag-student tag-student-athlete tag-traveling tag-wicket">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/a-ticket-to-cricket-success-a-students-journey-to-professional-cricket"><img width="360" height="240" src="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_7452-1.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20790" data-permalink="http://verdemagazine.com/a-ticket-to-cricket-success-a-students-journey-to-professional-cricket/img_7452-2" data-orig-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_7452-1.jpg?fit=667%2C820" data-orig-size="667,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 760D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1535961850&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;29&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_7452" data-image-description="" data-medium-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_7452-1.jpg?fit=244%2C300" data-large-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_7452-1.jpg?fit=667%2C820" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/a-ticket-to-cricket-success-a-students-journey-to-professional-cricket">A Ticket to Cricket Success: A Student&#8217;s Journey to Professional Cricket</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20782 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-volume-20 category-v20-1 tag-broadcom-masters tag-california tag-emergency tag-engineering tag-fletcher tag-fletcher-middle-school tag-kid tag-middle-school tag-palo-alto tag-project tag-radio tag-roy-gross tag-science tag-science-fair tag-science-project tag-smart tag-talented tag-transmission tag-transmit">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/fletcher-middle-school-student-places-in-top-30-in-national-science-competition"><img width="360" height="240" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/roy-gross.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20813" data-permalink="http://verdemagazine.com/fletcher-middle-school-student-places-in-top-30-in-national-science-competition/roy-gross" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/roy-gross.jpg?fit=1000%2C667" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS REBEL T5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1459206677&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;23&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="roy gross" data-image-description="&lt;p&gt;Fletcher Middle School 8th grader Roy Gross speaks to Verde about his emergency radio communication device. Gross will travel to Washington DC to compete as a top 30 finalist in the national Broadcom MASTERS competition. Photo by Alex Feng&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/roy-gross.jpg?fit=300%2C200" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/roy-gross.jpg?fit=1000%2C667" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/fletcher-middle-school-student-places-in-top-30-in-national-science-competition">Fletcher Middle School student places in top 30 in national science competition</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20826 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-volume-20 category-v20-1 tag-pausd-high-school-palo-alto-high-school tag-6696 tag-american tag-asian tag-bay-area tag-board-election tag-california tag-california-voting-rights-act-2001 tag-court tag-dana-tom tag-election tag-jennifer-dibrienza tag-latino tag-law-firm tag-law-firm-letter tag-law-firm-threat tag-midterms tag-minority tag-palo-alto tag-palo-alto-high-school tag-pausd tag-politics tag-race tag-race-division tag-racially-polarized tag-racially-polarizing tag-racism tag-school tag-school-board tag-school-board-election tag-school-board-race tag-sue tag-sure tag-threat tag-verde tag-verde-magazine tag-voting-rights-act">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/board-given-more-time-to-address-claims-of-racial-polarization"><img width="360" height="240" src="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/DanaTomdigital.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20834" data-permalink="http://verdemagazine.com/board-given-more-time-to-address-claims-of-racial-polarization/danatomdigital" data-orig-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/DanaTomdigital.jpg?fit=1000%2C667" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS Rebel T6i&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1537465134&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;51&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="DanaTomdigital" data-image-description="" data-medium-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/DanaTomdigital.jpg?fit=300%2C200" data-large-file="https://i1.wp.com/verdemagazine.com/wp-content/uploads/2018/09/DanaTomdigital.jpg?fit=1000%2C667" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/board-given-more-time-to-address-claims-of-racial-polarization">Board given more time to address claims of racial polarization</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20735 post type-post status-publish format-standard has-post-thumbnail hentry category-features category-volume-20 category-v20-1 tag-body-cameras tag-city-council tag-east-palo-alto tag-epa tag-eric-aboytes tag-giselle-navarro tag-officers tag-police tag-police-officers tag-proposal tag-tasers tag-tax">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/non-lethal-options-east-palo-alto-council-drops-proposal-to-equip-officers-with-tasers"><img width="360" height="240" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_3431.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20929" data-permalink="http://verdemagazine.com/non-lethal-options-east-palo-alto-council-drops-proposal-to-equip-officers-with-tasers/img_3431" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_3431.jpg?fit=1500%2C1000" data-orig-size="1500,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 70D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1535642390&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;15&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_3431" data-image-description="" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_3431.jpg?fit=300%2C200" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/IMG_3431.jpg?fit=1024%2C683" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/non-lethal-options-east-palo-alto-council-drops-proposal-to-equip-officers-with-tasers">Non-lethal options: East Palo Alto council drops proposal to equip officers with tasers</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20832 post type-post status-publish format-standard has-post-thumbnail hentry category-culture category-volume-20 category-v20-1 tag-blackkklansman tag-david-duke tag-hollywood tag-kkk tag-movie tag-movie-review tag-ron-stallworth tag-spike-lee tag-stallworth">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/spike-lees-blackkklansman-new-crime-drama-addresses-a-divided-america"><img width="360" height="240" src="https://i0.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Blkklansman-1.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20898" data-permalink="http://verdemagazine.com/spike-lees-blackkklansman-new-crime-drama-addresses-a-divided-america/blkklansman-2" data-orig-file="https://i0.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Blkklansman-1.jpg?fit=2000%2C1369" data-orig-size="2000,1369" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1537201570&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Blkklansman" data-image-description="" data-medium-file="https://i0.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Blkklansman-1.jpg?fit=300%2C205" data-large-file="https://i0.wp.com/verdemagazine.com/wp-content/uploads/2018/09/Blkklansman-1.jpg?fit=1024%2C701" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/spike-lees-blackkklansman-new-crime-drama-addresses-a-divided-america">Spike Lee’s BlacKkKlansman: New Crime Drama Addresses a Divided America</a></h4>
+                                                    </div>
+
+                    </li>
+        		                    <li class="cb-article cb-style-1 clearfix post-20882 post type-post status-publish format-standard has-post-thumbnail hentry category-profiles category-volume-20 category-v20-1 tag-2018-midterms tag-civic-process tag-community tag-democracy tag-family tag-midterms tag-voting">
+
+                        <div class="cb-mask"><a href="http://verdemagazine.com/saturday-at-the-spencers-getting-involved-in-the-civic-process-one-postcard-at-a-time"><img width="360" height="240" src="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/voting.jpg?resize=360%2C240" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" alt="" data-attachment-id="20951" data-permalink="http://verdemagazine.com/saturday-at-the-spencers-getting-involved-in-the-civic-process-one-postcard-at-a-time/voting" data-orig-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/voting.jpg?fit=1001%2C751" data-orig-size="1001,751" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 7&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1537025980&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="voting" data-image-description="" data-medium-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/voting.jpg?fit=300%2C225" data-large-file="https://i2.wp.com/verdemagazine.com/wp-content/uploads/2018/09/voting.jpg?fit=1001%2C751" /></a></div>
+
+                        <div class="cb-meta">
+                            <h4 class="cb-post-title"><a href="http://verdemagazine.com/saturday-at-the-spencers-getting-involved-in-the-civic-process-one-postcard-at-a-time">Saturday at the Spencers&#8217;: Getting Involved in the Civic Process One Postcard at a Time</a></h4>
+                                                    </div>
+
+                    </li>
+        		        		</ul>
+    		</div>
+
+    		</div>                                </div>
+                                                                                        <div class="cb-two cb-column clearfix">
+                                    <div id="search-6" class="cb-footer-widget clearfix widget_search"><form role="search" method="get" class="cb-search" action="http://verdemagazine.com/">
+
+    <input type="text" class="cb-search-field cb-font-header" placeholder="Search.." value="" name="s" title="" autocomplete="off">
+    <button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+    
+</form></div><div id="cb-social-media-widget-7" class="cb-footer-widget clearfix cb-widget-social-media clearfix"><div class="cb-social-media-icons cb-white"><a href="https://instagram.com/verdemag/" target="_blank" class="cb-instagram cb-icon-1"></a><a href="https://www.facebook.com/verdemagazine?fref=ts" target="_blank" class="cb-facebook cb-icon-2"></a><a href="https://twitter.com/verdemagazine" target="_blank" class="cb-twitter cb-icon-3"></a><a href="https://www.youtube.com/channel/UCNZ5mTRcqDzm4fSH7lcMRMw" target="_blank" class="cb-youtube cb-icon-4"></a></div></div>                                </div>
+                                                                                        <div class="cb-three cb-column clearfix">
+                                    <div id="pages-6" class="cb-footer-widget clearfix widget_pages"><h3 class="cb-footer-widget-title cb-widget-title">Find more</h3>		<ul>
+			<li class="page_item page-item-518"><a href="http://verdemagazine.com/about">About Verde Magazine</a></li>
+<li class="page_item page-item-5516"><a href="http://verdemagazine.com/advertise">Advertise</a></li>
+<li class="page_item page-item-5362 page_item_has_children"><a href="http://verdemagazine.com/archives">Archives</a>
+<ul class='children'>
+	<li class="page_item page-item-16380"><a href="http://verdemagazine.com/archives/volume-19-issuu">Volume 19 Issuu</a></li>
+</ul>
+</li>
+<li class="page_item page-item-10320"><a href="http://verdemagazine.com/contact">Contact</a></li>
+<li class="page_item page-item-16368"><a href="http://verdemagazine.com/exclusive-issues">Exclusive Verde Issues</a></li>
+<li class="page_item page-item-5518"><a href="http://verdemagazine.com/ethics-policy">Policy</a></li>
+<li class="page_item page-item-11170"><a href="http://verdemagazine.com/sponsors">Sponsors</a></li>
+<li class="page_item page-item-5520"><a href="http://verdemagazine.com/staff">Staff</a></li>
+<li class="page_item page-item-18068"><a href="http://verdemagazine.com/veritas">Veritas</a></li>
+<li class="page_item page-item-18066"><a href="http://verdemagazine.com/viaverde">Via Verde</a></li>
+<li class="page_item page-item-21295"><a href="http://verdemagazine.com/volume-20-issuu">Volume 20 Issuu</a></li>
+		</ul>
+		</div><div id="text-5" class="cb-footer-widget clearfix widget_text">			<div class="textwidget">© Verde Magazine 2017</div>
+		</div>                                </div>
+                                                        
+                        </div>
+
+                    
+                    
+    			</footer> <!-- end footer -->
+
+		</div> <!-- end #cb-outer-container -->
+
+		<span id="cb-overlay"></span>
+
+		
+<script type="text/javascript">
+__tlid = '597143453867966466';
+__tlconfig = {hOverflow: false, vOverflow: false};
+setTimeout(function(){(function(d,t){var s=d.createElement(t),x=d.getElementsByTagName(t)[0];
+s.type='text/javascript';s.async=true;s.src='//cdn.thinglink.me/jse/embed.js';
+x.parentNode.insertBefore(s,x);})(document,'script');},0);
+</script><script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/add-search-to-menu/public/js/ivory-search.js?ver=4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/verdemagazine.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/easy-image-collage/js/public.js?ver=1.11.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201841'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/aesop-story-engine/public/assets/js/ai-core.min.js?ver=1.10.0.3'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/modules/likes/queuehandler.js?ver=6.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbExt = {"cbSS":"on","cbLb":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/15zine/library/js/cb-ext.js?ver=2.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbScripts = {"cbUrl":"http:\/\/verdemagazine.com\/wp-admin\/admin-ajax.php","cbPostID":null,"cbFsClass":"cb-embed-fs","cbSlider":["600",true,"9900"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/15zine/library/js/cb-scripts.min.js?ver=2.0.2'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201841.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.1.1',blog:'41039173',post:'0',tz:'-7',srv:'verdemagazine.com'} ]);
+	_stq.push([ 'clickTrackerInit', '41039173', '0' ]);
+</script>
+
+	</body>
+
+</html> <!-- The End. what a ride! -->
